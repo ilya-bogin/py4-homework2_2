@@ -1,0 +1,82 @@
+[
+	{
+		"recipe_name" : "Яичница",
+		"ingridients": [
+			{
+				"name" : "яйца",
+				"quantity" : 2,
+				"measure" : "гр."
+			},
+			{
+				"name" : "помидоры",
+				"quantity" : 100,
+				"measure" : "гр."
+			}
+		]
+	},
+	{
+		"recipe_name" : "Стейк",
+		"ingridients": [
+			{
+				"name" : "говядина",
+				"quantity" : 300,
+				"measure" : "гр."
+			},
+			{
+				"name" : "специи",
+				"quantity" : 5,
+				"measure" : "гр."
+			},
+			{
+				"name" : "масло",
+				"quantity" : 10,
+				"measure" : "мл."
+			}
+		]
+	},
+	{
+		"recipe_name" : "Салат",
+		"ingridients": [
+			{
+				"name" : "помидоры",
+				"quantity" : 100,
+				"measure" : "гр."
+			},
+			{
+				"name" : "огурцы",
+				"quantity" : 100,
+				"measure" : "гр."
+			},
+			{
+				"name" : "масло",
+				"quantity" : 100,
+				"measure" : "мл."
+			},
+			{
+				"name" : "лук",
+				"quantity" : 1,
+				"measure" : "шт."
+			}
+		]
+	},
+	{
+		"recipe_name" : "Омлет",
+		"ingridients": [
+			{
+				"name" : "яйца",
+				"quantity" : 2,
+				"measure" : "шт."
+			},
+			{
+				"name" : "молоко",
+				"quantity" : 50,
+				"measure" : "мл."
+			},
+			{
+				"name" : "помидоры",
+				"quantity" : 100,
+				"measure" : "гр."
+			}
+		]
+	}
+]
